@@ -16,4 +16,4 @@
 15、git push origin master <br/>
 16、gitignore 忽略node_modules 文件夹，根目录下创建gitignore.txt文件里面添加 '/node_modules',然后运行 ren gitignore.txt .gitignore命令 link：https://segmentfault.com/a/1190000014337700<br/>
 16、links https://blog.csdn.net/qq_37577660/article/details/78565899<br/>
-17、
+17、如有修改  < git add *> ----  <git commit -m ""> ----  <git push origin master> <br/>
